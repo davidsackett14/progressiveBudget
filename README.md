@@ -19,7 +19,8 @@
   
   ## Installation
   
-  this program is deployed and can be viewed here
+  this program is deployed and can be viewed here [deployed app](https://davidsackett14.github.io/progressiveBudget/)
+  
   
   
   ## Usage 
