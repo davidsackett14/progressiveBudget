@@ -19,7 +19,7 @@
   
   ## Installation
   
-  this program is deployed and can be viewed here [deployed app](https://davidsackett14.github.io/progressiveBudget/)
+  this program is deployed and can be viewed here [deployed app](https://arcane-eyrie-06367.herokuapp.com/)
   
   
   
